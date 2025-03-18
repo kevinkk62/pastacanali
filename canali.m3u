@@ -58,6 +58,27 @@ https://ddy6new.iosplayer.ru/ddy6/premium868/mono.m3u8
 
 
 
+#EXTINF:-1 player-buffer="15" tvg-id="SkyUno.it" tvg-name="Sky Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Sky_Uno_-_Logo_2021.svg/512px-Sky_Uno_-_Logo_2021.svg.png" group-title="SKY",Sky Uno
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safa5E148 Safari/604.1
+https://windnew.iosplayer.ru/wind/premium881/mono.m3u8
+
+#EXTINF:-1 player-buffer="15" tvg-id="SkySerie.it" tvg-name="Sky Serie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sky_Serie.svg/512px-Sky_Serie.svg.png" group-title="SKY",Sky Serie
+#EXTVLCOPT:http-origin=https://newembedplay.xyz
+#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safa5E148 Safari/604.1
+https://windnew.iosplayer.ru/wind/premium880/mono.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 player-buffer="15" tvg-id="SkySport24.it" tvg-name="SKY SPORT 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/512px-Sky_Sport_24_-_Logo_2020.svg.png" group-title="SKY SPORT",Sky Sport 24
 #EXTVLCOPT:http-origin=https://newembedplay.xyz
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
