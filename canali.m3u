@@ -359,7 +359,3 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiotvseriea.png" group-title="Radio",Radio TV Serie A con RDS
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
-#EXTINF:-1 player-buffer="15" tvg-logo="https://noibianconeri24.it/wp-content/uploads/2024/09/juvevspsv.png" group-title="PARTITE",JUVENTUS VS PSV
- https://v5.sportsonline.si/channels/hd/hd7.php
-#EXTINF:-1 tvg-logo="https://cdn.tomshw.it/storage/media/2024/09/34523/milan-liverpool.jpg" group-title="PARTITE",MILAN VS LIVERPOOL
- https://v5.sportsonline.si/channels/hd/hd7.php
